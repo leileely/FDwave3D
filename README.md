@@ -48,7 +48,7 @@ HOW TO RUN THE PROGRAM
 
 	e.g.,
 	Figure 2: 
-	Simulation3_homo_downhole_dc1.m: 		for the 3D homogeneous and isotropic model
+	Simulation3_homo_downhole.m: 		for the 3D homogeneous and isotropic model
 	compare_homo.m
 
 	Figure 3:

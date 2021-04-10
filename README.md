@@ -85,8 +85,7 @@ REFERENCE
   Malkoti, A., Vedanti, N., Tiwari, R.K.: An algorithm for fast elastic wave simulation using a vectorized finite difference operator. Computers & Geosciences. 116, 23-31 (2018). https:
 //doi.org/10.1016/j.cageo.2018.04.002.
 
-  Li, L., Tan, J., Zhang, D., Malkoti, A., Abakumov, I., Xie, Y.: FDwave3D: A MATLAB solver for the 3D anisotropic wave equation using the finite-difference method. Accepted Manuscript
-(the current study).
+  Li, L., Tan, J., Zhang, D., Malkoti, A., Abakumov, I., Xie, Y.: FDwave3D: A MATLAB solver for the 3D anisotropic wave equation using the finite-difference method. Computational Geosciences. 2021. Accepted Manuscript.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
